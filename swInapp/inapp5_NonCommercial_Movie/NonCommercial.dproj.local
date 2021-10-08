@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.511,C:\Users\user\Documents\Embarcadero\Studio\Projects\정승균\유튜브영상보기\NonCommercial.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.949,F:\Projects\superman\NonCommercial_DB\Unit1.pas=F:\Projects\superman\NonCommercial_DB\u_servermethods.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.129,F:\Projects\superman\NonCommercial_DB\Unit1.pas=F:\Projects\superman\NonCommercial_DB\u_servermethods.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.232,F:\Projects\superman\NonCommercial_DB\Unit1.pas=F:\Projects\superman\NonCommercial_DB\u_servermethods.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.648,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.903,F:\Projects\superman\NonCommercial_DB\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.132,F:\Projects\superman\NonCommercial_DB\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.172,=C:\Users\user\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.633,C:\Users\user\Documents\Embarcadero\Studio\Projects\정승균\유튜브영상보기\u_youtube.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.633,C:\Users\user\Documents\Embarcadero\Studio\Projects\정승균\유튜브영상보기\u_youtube.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.790,F:\Projects\superman\NonCommercial\Unit1.pas=F:\Projects\superman\NonCommercial\u_servermethods.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.062,=F:\Projects\superman\NonCommercial\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.738,=C:\Users\user\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.273,F:\Projects\superman\NonCommercial_DB\Unit1.pas=F:\Projects\superman\NonCommercial_DB\u_servermethods.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.401,=F:\Projects\superman\NonCommercial_DB\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.848,=F:\Projects\superman\NonCommercial_DB\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.691,=F:\Projects\superman\NonCommercial_DB\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.293,=F:\Projects\superman\NonCommercial_DB\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.172,F:\Projects\superman\NonCommercial_DB\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.443,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.791,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.121,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.593,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.144,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.734,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.258,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.662,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.178,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.831,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.292,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.347,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.787,F:\Projects\superman\NonCommercial_DB\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.383,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.418,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.997,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.403,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.203,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

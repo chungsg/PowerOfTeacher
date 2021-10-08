@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.524,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj=F:\Projects\Songwon\PowerOfSWT_prg\swInapp\swquiz\swquiz.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.178,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.973,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm=F:\Projects\Songwon\PowerOfSWT_prg\swInapp\swquiz\u_swquizmain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.172,=C:\Users\user\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.738,=C:\Users\user\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.973,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas=F:\Projects\Songwon\PowerOfSWT_prg\swInapp\swquiz\u_swquizmain.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.443,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.203,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.452,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.997,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

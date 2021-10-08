@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.721,H:\Projects\Songwon\Goldenbell_Corona\swVideoChatTeacher_New\Unit1.pas=H:\Projects\Songwon\Goldenbell_Corona\swVideoChatTeacher_New\u_servermethods.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.033,=H:\Projects\Songwon\Goldenbell_Corona\swVideoChatTeacher_New\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.951,H:\Projects\Songwon\Goldenbell_Corona\TeacherMng\Unit1.pas=H:\Projects\Songwon\Goldenbell_Corona\TeacherMng\u_servermethods.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.629,H:\Projects\Songwon\Goldenbell_Corona\swVideoStudyMng_Callback\OnlineTeacher.dproj=H:\Projects\Songwon\Goldenbell_Corona\swVideoStudyMng_Callback\OnlineVideoTeacher.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.667,H:\Projects\Songwon\Goldenbell_Corona\TeacherMng_20200321\Unit1.pas=H:\Projects\Songwon\Goldenbell_Corona\TeacherMng_20200321\u_servermethods.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.147,=H:\Projects\Songwon\Goldenbell_Corona\TeacherMng_20200321\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.657,D:\Projects\Songwon\Goldenbell_corona\swVideoStudyMng_Callback\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.713,F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\PowerOfSWTMain\Unit1.pas=F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\PowerOfSWTMain\u_servermethods.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.401,F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\PowerOfSWTMain\Unit1.pas=F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\PowerOfSWTMain\u_servermethods.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.843,=F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\PowerOfSWTMain\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.799,=D:\Projects\Songwon\Goldenbell_corona\swVideoStudyMng_Callback\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.081,=H:\Projects\Songwon\Goldenbell_Corona\TeacherMng\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.516,H:\Projects\Songwon\Goldenbell_Corona\swVideoStudyMng_Callback\OnlineVideoTeacher.dproj=H:\Projects\Songwon\Goldenbell_Corona\swVideoStudyMng_Callback\swVideoTeacher.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.562,D:\Projects\Songwon\Goldenbell_corona\swVideoStudyMng_Callback\Unit1.pas=D:\Projects\Songwon\Goldenbell_corona\swVideoStudyMng_Callback\u_servermethods.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.368,F:\Projects\Songwon\Goldenbell_corona\swVideoChatTeacher_New\u_mainteacher.pas=F:\Projects\Songwon\PowerOfSWT_prg\PowerOfSWTMain\u_powerofswtmain.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.637,F:\Projects\Songwon\Alexandria_prg\PowerOfT_prg\PowerOfSWTMain\PowerOfSWTMain.dproj=F:\Projects\Songwon\Alexandria_prg\PowerOfT_prg\PowerOfSWTMain\PowerOfTMain.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.294,H:\Projects\Songwon\Goldenbell_Corona\swVideoStudyMng_Callback\u_servermethods.pas=H:\Projects\Songwon\Goldenbell_Corona\swVideoStudyMng_Callback\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.368,F:\Projects\Songwon\Goldenbell_corona\swVideoChatTeacher_New\u_mainteacher.dfm=F:\Projects\Songwon\PowerOfSWT_prg\PowerOfSWTMain\u_powerofswtmain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.618,=H:\Projects\Songwon\Goldenbell_Corona\swVideoStudyMng_Callback\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.550,=H:\Projects\Songwon\Goldenbell_Corona\swVideoStudyMng_Callback\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.407,C:\Users\sec-pc\Documents\Embarcadero\Studio\Projects\Project1.dproj=H:\Projects\Songwon\Goldenbell_Corona\TeacherMng\OnlineTeacher.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.692,=D:\Projects\Songwon\Goldenbell_corona\u_getinform.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.789,=C:\Users\sec-pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.619,=C:\Users\sec-pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.225,D:\Projects\Songwon\Goldenbell_corona\u_getinform.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.645,H:\Projects\Songwon\Goldenbell_Corona\swVideoStudyMng_Callback\u_servermethods.pas=H:\Projects\Songwon\Goldenbell_Corona\swVideoStudyMng_Callback\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.645,H:\Projects\Songwon\Goldenbell_Corona\swVideoStudyMng_Callback\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.372,H:\Projects\Songwon\Goldenbell_Corona\swVideoStudyMng_Callback\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.033,=F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\PowerOfSWTMain\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.416,F:\Projects\Songwon\PowerOfSWT_prg\PowerOfSWTMain\Unit1.pas=F:\Projects\Songwon\PowerOfSWT_prg\PowerOfSWTMain\u_servermethods.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.894,F:\Projects\Songwon\Goldenbell_corona\swVideoChatTeacher_New\u_servermethods.pas=F:\Projects\Songwon\PowerOfSWT_prg\PowerOfSWTMain\u_servermethods.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.550,F:\Projects\Songwon\Goldenbell_corona\swVideoChatTeacher_New\u_swtimer.pas=F:\Projects\Songwon\PowerOfSWT_prg\PowerOfSWTMain\u_swtimer.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.372,=F:\Projects\Songwon\PowerOfSWT_prg\PowerOfSWTMain\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.624,=C:\Users\sec-pc\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.439,F:\Projects\Songwon\PowerOfSWT_prg\PowerOfSWTMain\Unit1.pas=F:\Projects\Songwon\PowerOfSWT_prg\PowerOfSWTMain\u_servermethods.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.269,=F:\Projects\Songwon\PowerOfSWT_prg\PowerOfSWTMain\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.588,F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\PowerOfSWTMain\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.955,F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\PowerOfSWTMain\u_servermethods.pas=F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\PowerOfSWTMain\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.550,F:\Projects\Songwon\Goldenbell_corona\swVideoChatTeacher_New\u_swtimer.dfm=F:\Projects\Songwon\PowerOfSWT_prg\PowerOfSWTMain\u_swtimer.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.571,F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\PowerOfSWTMain\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.856,D:\Projects\Songwon\Goldenbell_corona\swVideoChatTeacher_New\u_servermethods.pas=D:\Projects\Songwon\Goldenbell_corona\swVideoChatTeacher_New\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.843,D:\Projects\Songwon\Goldenbell_corona\swVideoChatTeacher_New\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.843,F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\PowerOfSWTMain\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.267,H:\Projects\Songwon\Goldenbell_Corona\TeacherMng_20200321\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.697,=D:\Projects\Songwon\Goldenbell_corona\swVideoChatTeacher_New\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.042,C:\Users\sec-pc\Documents\Embarcadero\Studio\Projects\Unit6.dfm=H:\Projects\Songwon\Goldenbell_Corona\TeacherMng\u_mainteacher.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.541,D:\Projects\Songwon\Goldenbell_corona\swVideoStudyMng_Callback\swVideoChatTeacher.dproj=D:\Projects\Songwon\Goldenbell_corona\swVideoStudyMng_Callback\swVideoTeacher.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.044,=F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\PowerOfSWTMain\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.777,F:\Projects\Songwon\PowerOfSWT_prg\PowerOfSWTMain\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.948,F:\Projects\Songwon\PowerOfSWT_prg\PowerOfSWTMain\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.868,D:\Projects\Songwon\Goldenbell_corona\swVideoChatMng_New\u_swtimer.pas=D:\Projects\Songwon\Goldenbell_corona\swVideoChatMng_New\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.868,D:\Projects\Songwon\Goldenbell_corona\swVideoChatMng_New\u_swtimer.dfm=D:\Projects\Songwon\Goldenbell_corona\swVideoChatMng_New\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.042,C:\Users\sec-pc\Documents\Embarcadero\Studio\Projects\Unit6.pas=H:\Projects\Songwon\Goldenbell_Corona\TeacherMng\u_mainteacher.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.651,F:\Projects\Songwon\Goldenbell_corona\swVideoChatTeacher_New\swVideoChatTeacher.dproj=F:\Projects\Songwon\PowerOfSWT_prg\PowerOfSWTMain\PowerOfSWTMain.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.818,=D:\Projects\Songwon\Goldenbell_corona\swVideoChatMng_New\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.638,H:\Projects\Songwon\Goldenbell_Corona\swVideoChatTeacher_New\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.622,F:\Projects\Songwon\Alexandria_prg\PowerOfT_prg\PowerOfTMain\u_swtimer.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="5205baeab88ca10f"/>
+	</ActiveMobileDevice>
+</BorlandProject>

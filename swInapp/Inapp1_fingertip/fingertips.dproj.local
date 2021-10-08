@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.768,D:\Projects\superman\Windows Tablet App\Unit1.dfm=D:\Projects\superman\Windows Tablet App\u_setting.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.076,D:\Projects\superman\Windows Tablet App\Unit1.dfm=D:\Projects\superman\Windows Tablet App\u_cameraset.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.609,C:\Users\sec\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projects\superman\Windows Tablet App\u_main.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.795,=C:\Users\sec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.830,=C:\Users\sec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.609,C:\Users\sec\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projects\superman\Windows Tablet App\u_main.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.591,=C:\Users\sec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.759,C:\Users\sec\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projects\superman\Windows Tablet App\fingertips.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.357,D:\Projects\superman\Windows Tablet App\u_freehand.pas=D:\Projects\superman\Windows Tablet App\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.492,D:\Projects\Songwon\Goldenbell_corona\swInapp\Inapp_1\u_cameraset.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.357,D:\Projects\superman\Windows Tablet App\u_freehand.dfm=D:\Projects\superman\Windows Tablet App\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.152,D:\Projects\superman\Windows Tablet App\Teachers\Unit1.pas=D:\Projects\superman\Windows Tablet App\Teachers\u_servermethods.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.834,D:\Projects\Songwon\Goldenbell_corona\swInapp\Inapp_1\u_freehand.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.413,D:\Projects\Songwon\Goldenbell_corona\swInapp\Inapp_1\u_setting.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.627,=D:\Projects\superman\Windows Tablet App\Teachers\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.725,=D:\Projects\superman\Windows Tablet App\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.599,=D:\Projects\superman\Windows Tablet App\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.607,=C:\Users\sec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.331,=D:\Projects\superman\Windows Tablet App\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.690,D:\Projects\Songwon\Goldenbell_corona\swInapp\Inapp_1\u_servermethods.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.076,D:\Projects\superman\Windows Tablet App\Unit1.pas=D:\Projects\superman\Windows Tablet App\u_cameraset.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.768,D:\Projects\superman\Windows Tablet App\Unit1.pas=D:\Projects\superman\Windows Tablet App\u_setting.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.136,=C:\Users\sec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.692,=C:\Users\sec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.662,=C:\Users\sec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.078,=C:\Users\sec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.686,=C:\Users\sec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.831,=C:\Users\sec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.353,=C:\Users\sec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.884,=C:\Users\sec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="emulator-5566"/>
+	</ActiveMobileDevice>
+</BorlandProject>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.443,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.258,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.199,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj=F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\inapp4_whatisthis\whatisthis.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.095,F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\swInapp\inapp4_whatisthis\u_main.pas=F:\Projects\Songwon\Alexandria_prg\inapp4_Whatisthis\u_main.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.144,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.576,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.791,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.292,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.644,F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\swInapp\inapp4_whatisthis\u_Manual.dfm=F:\Projects\Songwon\Alexandria_prg\inapp4_Whatisthis\u_Manual.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.738,=C:\Users\user\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.563,F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\inapp4_whatisthis\Unit1.dfm=F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\inapp4_whatisthis\u_Manual.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.375,F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\swInapp\inapp4_whatisthis\whatisthis.dproj=F:\Projects\Songwon\Alexandria_prg\inapp4_Whatisthis\whatisthis.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.095,F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\swInapp\inapp4_whatisthis\u_main.dfm=F:\Projects\Songwon\Alexandria_prg\inapp4_Whatisthis\u_main.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.644,F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\swInapp\inapp4_whatisthis\u_Manual.pas=F:\Projects\Songwon\Alexandria_prg\inapp4_Whatisthis\u_Manual.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.172,=C:\Users\user\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.990,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm=F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\inapp4_whatisthis\u_main.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.347,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.203,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.990,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas=F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\inapp4_whatisthis\u_main.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.942,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.941,=F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\inapp4_whatisthis\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.563,F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\inapp4_whatisthis\Unit1.pas=F:\Projects\Songwon\Sydney_prg\PowerOfSWT_prg\inapp4_whatisthis\u_Manual.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.383,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.997,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.831,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.403,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.418,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.662,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.734,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.178,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.593,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.121,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{986437AA-BD1D-4ADD-B8F4-7145E43BF9C3}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="fingertips.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\Servers\Tablet_in_the_teachers_hand.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="fingertips">
+        <MSBuild Projects="fingertips.dproj"/>
+    </Target>
+    <Target Name="fingertips:Clean">
+        <MSBuild Projects="fingertips.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="fingertips:Make">
+        <MSBuild Projects="fingertips.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Tablet_in_the_teachers_hand">
+        <MSBuild Projects="..\Servers\Tablet_in_the_teachers_hand.dproj"/>
+    </Target>
+    <Target Name="Tablet_in_the_teachers_hand:Clean">
+        <MSBuild Projects="..\Servers\Tablet_in_the_teachers_hand.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Tablet_in_the_teachers_hand:Make">
+        <MSBuild Projects="..\Servers\Tablet_in_the_teachers_hand.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="fingertips;Tablet_in_the_teachers_hand"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="fingertips:Clean;Tablet_in_the_teachers_hand:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="fingertips:Make;Tablet_in_the_teachers_hand:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
